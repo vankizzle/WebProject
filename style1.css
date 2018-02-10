@@ -1,0 +1,64 @@
+#b1{
+	background-color:Black;
+}
+
+#logo{
+	text-align:center;
+}
+#logo{
+	
+}
+#sponsLeft{
+	padding-right:100px;
+}
+#sponsRight{
+	padding-left:100px;
+}
+#menu{
+	color:white;
+	text-align:center;
+	list-style-type: none;
+	margin: 0; 
+    padding: 0;
+	padding-top:70px;
+}
+#menu li{
+	font-family:courier;
+	display: inline;
+	font-size:500%;
+}
+
+#menu li a { 
+	color:white;
+	text-decoration:none;
+	padding: 80px;
+ }
+ 
+ #menu li a:hover{
+color:red;
+}
+#vid{
+	text-align:center;
+	padding-top:50px;
+	margin: 0; 
+}
+#form{
+	color:white;
+	text-align:center;
+	font-size:500%;
+}
+#news{
+	color:white;
+	text-align:center;
+	font-size:500%;
+}
+#media{
+	color:white;
+	text-align:center;
+	font-size:500%;
+}
+#about{
+	color:white;
+	text-align:center;
+	font-size:500%;
+}
